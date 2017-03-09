@@ -1,7 +1,7 @@
 /**
  * @brief Defines bitwise operators for specific enum classes.
  * @author Aaron Jones
- * @copyright MIT
+ * @copyright MIT License
  *
  * This can be used to allow an enum class to gain the following bitwise and
  * logical operations: |, |=, &, &=, ^, ^=, ~, !. This additional functionality
